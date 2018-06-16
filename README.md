@@ -1,4 +1,4 @@
-#BootStrap IconPicker
+# BootStrap IconPicker
 
 This package is a simple wrapper of [Victor's Bootstrap-IconPicker](http://victor-valencia.github.io/bootstrap-iconpicker/) for Meteor.
 
