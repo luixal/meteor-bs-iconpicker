@@ -9,7 +9,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.4.2.6');
   api.use('ecmascript');
-  api.use('templating');
+  api.use('templating@1.3.2');
 
   api.addFiles(
     [
